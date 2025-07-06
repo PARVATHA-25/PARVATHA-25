@@ -30,8 +30,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-ff69b4?style=flat-square)
 
 ## Connect with me
-📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/parvathavarthini-p) or explore my repositories here to see what I’ve been working on!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parvathavarthini-p/) or explore my repositories here to see what I’ve been working on!
 
-🌐 gmail
 
 
