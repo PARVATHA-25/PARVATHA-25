@@ -28,7 +28,7 @@
 
 | 🌟 Project | 💡 Description | 🎨 Tech Stack |
 |------------|----------------|---------------|
-| [**Wind Turbine SCADA Analysis**](YOUR_REPO_LINK) | 🌊 ML-powered predictive maintenance & anomaly detection for wind energy systems | Python, Scikit-learn, Time-Series Analysis, Power BI |
+| [**Wind Turbine SCADA Analysis**](https://github.com/PARVATHA-25/Wind-turbine-scada-analysis) | 🌊 ML-powered predictive maintenance & anomaly detection for wind energy systems | Python, Scikit-learn, Time-Series Analysis, Power BI |
 | [**YouTube Tutor Chatbot**](YOUR_REPO_LINK) | 🎓 GenAI-powered lecture assistant with transcript extraction, RAG-based Q&A, and PDF summaries | Streamlit, Google Gemini, FAISS, Whisper ASR, LangChain |
 | [**Energy Forecasting System**](YOUR_REPO_LINK) | ⚡ 92% accurate time-series prediction with anomaly detection, reducing abnormal patterns by 40% | Prophet, LSTM, Isolation Forest, Power BI |
 | [**Fashion Recommendation Engine**](YOUR_REPO_LINK) | 👗 Hybrid ML recommender achieving 18% CTR improvement through collaborative filtering | Scikit-learn, Pandas, Content-Based Filtering |
