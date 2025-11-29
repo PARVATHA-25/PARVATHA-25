@@ -1,67 +1,95 @@
-## Hi there, I'm PARVATHAVARTHINI P👋
+![logo](<img width="474" height="163" alt="image" src="https://github.com/user-attachments/assets/21dc7b4b-f005-4a30-8493-d086e033a5df" />)
 
-🎓 I’m an aspiring Artificial Intelligence & Machine Learning engineer pursuing my Integrated M.Sc. in AIML at Coimbatore Institute of Technology.
+# Hi 👋, I'm Parvathavarthini P
 
-🚀 Passionate about building intelligent, user-centric applications leveraging GenAI, NLP, and machine learning techniques.
+⚡ **AI/ML Engineer | GenAI Specialist | Data Science Enthusiast | NLP Explorer**
+ ---
+ 
+## 🧠 About Me
 
-💡 I have hands-on experience in developing end-to-end web applications powered by AI/ML and modern web technologies.
+- 🎓 Pursuing Integrated M.Sc in **Artificial Intelligence & Machine Learning** at Coimbatore Institute of Technology
+- 🔬 Currently working on **Wind Turbine SCADA Analysis** — applying ML for predictive maintenance and anomaly detection
+- 🚀 Building impactful AI solutions: **GenAI Chatbots**, **Time-Series Forecasting**, **Intelligent Recommenders**
+- 📚 Deep diving into **Large Language Models**, **RAG architectures**, **Neural Networks**, and **Advanced NLP**
+- 🎯 Problem solver, ML enthusiast, and continuous learner
+- 🔍 Seeking **research opportunities and AI/ML internships** to advance practical machine learning applications
 
-🧠 I enjoy exploring semantic search, embeddings, recommender systems, and conversational AI.
+---
 
-👨‍💻 Worked as a Full Stack Developer Intern, where I built a complete e-commerce platform with authentication, dashboards, and admin modules.
+## 🔥 Current Focus
 
-🏆 Hackathon enthusiast — participated in national-level hackathons like Smart India Hackathon and Nexus.
+- 🌊 Analyzing **Wind Turbine SCADA data** using ML techniques for performance optimization and fault prediction
+- 🤖 Engineering **Retrieval-Augmented Generation (RAG)** systems with LangChain, FAISS, and vector databases
+- 📊 Developing **time-series forecasting models** (Prophet, LSTM) for energy and industrial applications
+- 🧪 Experimenting with **transformer architectures** and fine-tuning LLMs for domain-specific tasks
+- 💡 Transforming complex datasets into actionable insights through advanced analytics
 
-🌱 Currently learning more about LLMs, Generative AI, and deploying scalable ML pipelines.
+---
+
+## 🛠️ Projects
+
+| 🌟 Project | 💡 Description | 🎨 Tech Stack |
+|------------|----------------|---------------|
+| [**Wind Turbine SCADA Analysis**](YOUR_REPO_LINK) | 🌊 ML-powered predictive maintenance & anomaly detection for wind energy systems | Python, Scikit-learn, Time-Series Analysis, Power BI |
+| [**YouTube Tutor Chatbot**](YOUR_REPO_LINK) | 🎓 GenAI-powered lecture assistant with transcript extraction, RAG-based Q&A, and PDF summaries | Streamlit, Google Gemini, FAISS, Whisper ASR, LangChain |
+| [**Energy Forecasting System**](YOUR_REPO_LINK) | ⚡ 92% accurate time-series prediction with anomaly detection, reducing abnormal patterns by 40% | Prophet, LSTM, Isolation Forest, Power BI |
+| [**Fashion Recommendation Engine**](YOUR_REPO_LINK) | 👗 Hybrid ML recommender achieving 18% CTR improvement through collaborative filtering | Scikit-learn, Pandas, Content-Based Filtering |
+
+---
 
 ## 💻 Tech Stack
 
-### 🖋️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+**Core Languages:**  
+`Python` `SQL` `R`
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+**Machine Learning & Deep Learning:**  
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `Neural Networks` `Prophet` `LSTM`
 
-### 🤖 Machine Learning & AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=googlecolab&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/NLP-4B0082?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-228B22?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=flat-square)
+**GenAI & NLP:**  
+`LangChain` `Google Gemini` `FAISS` `Whisper ASR` `Hugging Face Transformers` `NLTK` `RAG Architectures`
 
-### 📚 Libraries & Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-9C27B0?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFAA00?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-ff69b4?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**Data Science Tools:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau` `EDA` `Feature Engineering`
 
-### 📊 Data Techniques
-![EDA](https://img.shields.io/badge/EDA-4CAF50?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-00BCD4?style=flat-square)
-![Regex](https://img.shields.io/badge/Regex-FF5722?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-795548?style=flat-square)
+**ML Specializations:**  
+`Time-Series Forecasting` `Anomaly Detection` `Recommendation Systems` `NLP` `Computer Vision` `Predictive Modeling`
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Databases:**  
+`SQLite` `MySQL` `MongoDB` `Vector Databases`
 
-## Connect with me
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parvathavarthini-p/) or explore my repositories here to see what I’ve been working on!
+**Web & Deployment** *(Supporting Skills)*:  
+`Django` `Streamlit` `FastAPI` `Docker`
 
+---
 
+## 🏆 Achievements
 
+- 🎯 **92% prediction accuracy** in energy consumption forecasting using advanced time-series models
+- 📈 **40% reduction** in anomaly detection time through ML-powered systems
+- 🚀 **30% efficiency improvement** in system workflows during development projects
+- 🔐 **Certified** in Cybersecurity Fundamentals (IBM, 2025) & Cyber Threat Management (CISCO, 2025)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvathavarthini-p/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvatha2510@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PARVATHA-25)
+
+---
+
+## 🎉 Fun Fact
+
+🎯 I transform data chaos into predictive models that solve real business problems
+📊 Obsessed with turning theory into deployable ML pipelines — from Jupyter to production
+⚡ Believer in AI that augments human potential rather than replacing it
+☕ Powered by curiosity, coffee, and challenging datasets
+---
+
+## 🚀 Let's Build the Future of AI Together!
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
