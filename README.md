@@ -1,4 +1,4 @@
-![logo](<img width="474" height="163" alt="image" src="https://github.com/user-attachments/assets/21dc7b4b-f005-4a30-8493-d086e033a5df" />)
+![logo]
 
 # Hi 👋, I'm Parvathavarthini P
 
