@@ -1,5 +1,3 @@
-![logo]()
-
 # Hi 👋, I'm Parvathavarthini P
 
 ⚡ **AI/ML Engineer | GenAI Specialist | Data Science Enthusiast | NLP Explorer**
