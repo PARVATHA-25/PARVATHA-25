@@ -1,4 +1,4 @@
-![logo]
+![logo]()
 
 # Hi 👋, I'm Parvathavarthini P
 
@@ -68,7 +68,6 @@
 - 📈 **40% reduction** in anomaly detection time through ML-powered systems
 - 🚀 **30% efficiency improvement** in system workflows during development projects
 - 🔐 **Certified** in Cybersecurity Fundamentals (IBM, 2025) & Cyber Threat Management (CISCO, 2025)
-
 ---
 
 ## 🌐 Connect with Me
@@ -80,16 +79,12 @@
 ---
 
 ## 🎉 Fun Fact
+- 🎯 I transform data chaos into predictive models that solve real business problems
+- 📊 Obsessed with turning theory into deployable ML pipelines — from Jupyter to production
+- ⚡ Believer in AI that augments human potential rather than replacing it
+- ☕ Powered by curiosity, coffee, and challenging datasets
 
-🎯 I transform data chaos into predictive models that solve real business problems
-📊 Obsessed with turning theory into deployable ML pipelines — from Jupyter to production
-⚡ Believer in AI that augments human potential rather than replacing it
-☕ Powered by curiosity, coffee, and challenging datasets
 ---
 
 ## 🚀 Let's Build the Future of AI Together!
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
